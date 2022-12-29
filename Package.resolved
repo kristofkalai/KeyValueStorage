@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "coder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/Coder/",
+      "state" : {
+        "revision" : "39cc6ffaed5c1ce3fa8367ef9dbb53c515f9a3ae",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "exceptioncatcher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/ExceptionCatcher",
+      "state" : {
+        "revision" : "9c50ab01dc439acd731330d101ec40b511f07669",
+        "version" : "2.0.7"
+      }
+    }
+  ],
+  "version" : 2
+}
