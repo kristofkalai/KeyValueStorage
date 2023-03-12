@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "coder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/Coder",
+      "state" : {
+        "revision" : "f59d882432f30635eb39c407525a02bb383f53c2",
+        "version" : "0.0.2"
+      }
+    },
+    {
+      "identity" : "exceptioncatcher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/ExceptionCatcher",
+      "state" : {
+        "revision" : "0f8ce30c241b3e4fec70d2cea809a1204a99abf6",
+        "version" : "2.0.8"
+      }
+    },
+    {
+      "identity" : "keyvaluestorage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/KeyValueStorage",
+      "state" : {
+        "revision" : "ac9f66b8e410c1119012de335d134babeec038cd",
+        "version" : "0.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}

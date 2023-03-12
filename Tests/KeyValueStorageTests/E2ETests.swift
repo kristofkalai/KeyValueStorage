@@ -23,7 +23,7 @@ extension E2ETests {
             return $0.get(forKey: key)
         }
         let result: Book? = coder.decode(storageData, type: .json)
-        print(result == object)
+        XCTAssertEqual(result, object)
     }
 
     func testGeneralE2E() {
@@ -35,6 +35,6 @@ extension E2ETests {
             return $0.get(forKey: key)
         }
         let result: Book? = coder.decode(storageData, type: .json)
-        print(result == object)
+        XCTAssertEqual(result, object)
     }
 }
