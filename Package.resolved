@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/stateman92/Coder/",
       "state" : {
-        "revision" : "39cc6ffaed5c1ce3fa8367ef9dbb53c515f9a3ae",
-        "version" : "0.0.1"
+        "revision" : "f59d882432f30635eb39c407525a02bb383f53c2",
+        "version" : "0.0.2"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/stateman92/ExceptionCatcher",
       "state" : {
-        "revision" : "9c50ab01dc439acd731330d101ec40b511f07669",
-        "version" : "2.0.7"
+        "revision" : "0f8ce30c241b3e4fec70d2cea809a1204a99abf6",
+        "version" : "2.0.8"
       }
     }
   ],
